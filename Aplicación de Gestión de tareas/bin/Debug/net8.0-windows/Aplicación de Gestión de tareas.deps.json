@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Aplicación de Gestión de tareas/1.0.0": {
+        "runtime": {
+          "Aplicación de Gestión de tareas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aplicación de Gestión de tareas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

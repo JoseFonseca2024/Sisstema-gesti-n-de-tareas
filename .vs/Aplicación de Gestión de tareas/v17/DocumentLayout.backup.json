@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\PracticaPrueba\\Aplicaci\u00F3n de Gesti\u00F3n de tareas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3559385A-FDAD-4212-9DC5-CF2E0356A057}|Aplicaci\u00F3n de Gesti\u00F3n de tareas\\Aplicaci\u00F3n de Gesti\u00F3n de tareas.csproj|c:\\users\\usuario\\desktop\\practicaprueba\\aplicaci\u00F3n de gesti\u00F3n de tareas\\aplicaci\u00F3n de gesti\u00F3n de tareas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3559385A-FDAD-4212-9DC5-CF2E0356A057}|Aplicaci\u00F3n de Gesti\u00F3n de tareas\\Aplicaci\u00F3n de Gesti\u00F3n de tareas.csproj|solutionrelative:aplicaci\u00F3n de gesti\u00F3n de tareas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3559385A-FDAD-4212-9DC5-CF2E0356A057}|Aplicaci\u00F3n de Gesti\u00F3n de tareas\\Aplicaci\u00F3n de Gesti\u00F3n de tareas.csproj|C:\\Users\\Usuario\\Desktop\\PracticaPrueba\\Aplicaci\u00F3n de Gesti\u00F3n de tareas\\aplicaci\u00F3n de gesti\u00F3n de tareas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3559385A-FDAD-4212-9DC5-CF2E0356A057}|Aplicaci\u00F3n de Gesti\u00F3n de tareas\\Aplicaci\u00F3n de Gesti\u00F3n de tareas.csproj|solutionrelative:aplicaci\u00F3n de gesti\u00F3n de tareas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3559385A-FDAD-4212-9DC5-CF2E0356A057}|Aplicaci\u00F3n de Gesti\u00F3n de tareas\\Aplicaci\u00F3n de Gesti\u00F3n de tareas.csproj|c:\\users\\usuario\\desktop\\practicaprueba\\aplicaci\u00F3n de gesti\u00F3n de tareas\\aplicaci\u00F3n de gesti\u00F3n de tareas\\todoitem.part2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3559385A-FDAD-4212-9DC5-CF2E0356A057}|Aplicaci\u00F3n de Gesti\u00F3n de tareas\\Aplicaci\u00F3n de Gesti\u00F3n de tareas.csproj|solutionrelative:aplicaci\u00F3n de gesti\u00F3n de tareas\\todoitem.part2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3559385A-FDAD-4212-9DC5-CF2E0356A057}|Aplicaci\u00F3n de Gesti\u00F3n de tareas\\Aplicaci\u00F3n de Gesti\u00F3n de tareas.csproj|c:\\users\\usuario\\desktop\\practicaprueba\\aplicaci\u00F3n de gesti\u00F3n de tareas\\aplicaci\u00F3n de gesti\u00F3n de tareas\\todoitems.part1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3559385A-FDAD-4212-9DC5-CF2E0356A057}|Aplicaci\u00F3n de Gesti\u00F3n de tareas\\Aplicaci\u00F3n de Gesti\u00F3n de tareas.csproj|solutionrelative:aplicaci\u00F3n de gesti\u00F3n de tareas\\todoitems.part1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3559385A-FDAD-4212-9DC5-CF2E0356A057}|Aplicaci\u00F3n de Gesti\u00F3n de tareas\\Aplicaci\u00F3n de Gesti\u00F3n de tareas.csproj|c:\\users\\usuario\\desktop\\practicaprueba\\aplicaci\u00F3n de gesti\u00F3n de tareas\\aplicaci\u00F3n de gesti\u00F3n de tareas\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3559385A-FDAD-4212-9DC5-CF2E0356A057}|Aplicaci\u00F3n de Gesti\u00F3n de tareas\\Aplicaci\u00F3n de Gesti\u00F3n de tareas.csproj|solutionrelative:aplicaci\u00F3n de gesti\u00F3n de tareas\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3559385A-FDAD-4212-9DC5-CF2E0356A057}|Aplicaci\u00F3n de Gesti\u00F3n de tareas\\Aplicaci\u00F3n de Gesti\u00F3n de tareas.csproj|c:\\users\\usuario\\desktop\\practicaprueba\\aplicaci\u00F3n de gesti\u00F3n de tareas\\aplicaci\u00F3n de gesti\u00F3n de tareas\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3559385A-FDAD-4212-9DC5-CF2E0356A057}|Aplicaci\u00F3n de Gesti\u00F3n de tareas\\Aplicaci\u00F3n de Gesti\u00F3n de tareas.csproj|solutionrelative:aplicaci\u00F3n de gesti\u00F3n de tareas\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3559385A-FDAD-4212-9DC5-CF2E0356A057}|Aplicaci\u00F3n de Gesti\u00F3n de tareas\\Aplicaci\u00F3n de Gesti\u00F3n de tareas.csproj|c:\\users\\usuario\\desktop\\practicaprueba\\aplicaci\u00F3n de gesti\u00F3n de tareas\\aplicaci\u00F3n de gesti\u00F3n de tareas\\todoextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3559385A-FDAD-4212-9DC5-CF2E0356A057}|Aplicaci\u00F3n de Gesti\u00F3n de tareas\\Aplicaci\u00F3n de Gesti\u00F3n de tareas.csproj|solutionrelative:aplicaci\u00F3n de gesti\u00F3n de tareas\\todoextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3559385A-FDAD-4212-9DC5-CF2E0356A057}|Aplicaci\u00F3n de Gesti\u00F3n de tareas\\Aplicaci\u00F3n de Gesti\u00F3n de tareas.csproj|c:\\users\\usuario\\desktop\\practicaprueba\\aplicaci\u00F3n de gesti\u00F3n de tareas\\aplicaci\u00F3n de gesti\u00F3n de tareas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3559385A-FDAD-4212-9DC5-CF2E0356A057}|Aplicaci\u00F3n de Gesti\u00F3n de tareas\\Aplicaci\u00F3n de Gesti\u00F3n de tareas.csproj|solutionrelative:aplicaci\u00F3n de gesti\u00F3n de tareas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3559385A-FDAD-4212-9DC5-CF2E0356A057}|Aplicaci\u00F3n de Gesti\u00F3n de tareas\\Aplicaci\u00F3n de Gesti\u00F3n de tareas.csproj|c:\\users\\usuario\\desktop\\practicaprueba\\aplicaci\u00F3n de gesti\u00F3n de tareas\\aplicaci\u00F3n de gesti\u00F3n de tareas\\itemstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3559385A-FDAD-4212-9DC5-CF2E0356A057}|Aplicaci\u00F3n de Gesti\u00F3n de tareas\\Aplicaci\u00F3n de Gesti\u00F3n de tareas.csproj|solutionrelative:aplicaci\u00F3n de gesti\u00F3n de tareas\\itemstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ToDoItem.Part2.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\PracticaPrueba\\Aplicaci\u00F3n de Gesti\u00F3n de tareas\\Aplicaci\u00F3n de Gesti\u00F3n de tareas\\ToDoItem.Part2.cs",
+              "RelativeDocumentMoniker": "Aplicaci\u00F3n de Gesti\u00F3n de tareas\\ToDoItem.Part2.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\PracticaPrueba\\Aplicaci\u00F3n de Gesti\u00F3n de tareas\\Aplicaci\u00F3n de Gesti\u00F3n de tareas\\ToDoItem.Part2.cs",
+              "RelativeToolTip": "Aplicaci\u00F3n de Gesti\u00F3n de tareas\\ToDoItem.Part2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T04:35:52.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ToDoItems.Part1.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\PracticaPrueba\\Aplicaci\u00F3n de Gesti\u00F3n de tareas\\Aplicaci\u00F3n de Gesti\u00F3n de tareas\\ToDoItems.Part1.cs",
+              "RelativeDocumentMoniker": "Aplicaci\u00F3n de Gesti\u00F3n de tareas\\ToDoItems.Part1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\PracticaPrueba\\Aplicaci\u00F3n de Gesti\u00F3n de tareas\\Aplicaci\u00F3n de Gesti\u00F3n de tareas\\ToDoItems.Part1.cs",
+              "RelativeToolTip": "Aplicaci\u00F3n de Gesti\u00F3n de tareas\\ToDoItems.Part1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T04:05:35.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\PracticaPrueba\\Aplicaci\u00F3n de Gesti\u00F3n de tareas\\Aplicaci\u00F3n de Gesti\u00F3n de tareas\\AppSettings.cs",
+              "RelativeDocumentMoniker": "Aplicaci\u00F3n de Gesti\u00F3n de tareas\\AppSettings.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\PracticaPrueba\\Aplicaci\u00F3n de Gesti\u00F3n de tareas\\Aplicaci\u00F3n de Gesti\u00F3n de tareas\\AppSettings.cs",
+              "RelativeToolTip": "Aplicaci\u00F3n de Gesti\u00F3n de tareas\\AppSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T04:42:24.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\PracticaPrueba\\Aplicaci\u00F3n de Gesti\u00F3n de tareas\\Aplicaci\u00F3n de Gesti\u00F3n de tareas\\Form1.cs",
+              "RelativeDocumentMoniker": "Aplicaci\u00F3n de Gesti\u00F3n de tareas\\Form1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\PracticaPrueba\\Aplicaci\u00F3n de Gesti\u00F3n de tareas\\Aplicaci\u00F3n de Gesti\u00F3n de tareas\\Form1.cs",
+              "RelativeToolTip": "Aplicaci\u00F3n de Gesti\u00F3n de tareas\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T05:25:10.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\PracticaPrueba\\Aplicaci\u00F3n de Gesti\u00F3n de tareas\\Aplicaci\u00F3n de Gesti\u00F3n de tareas\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Aplicaci\u00F3n de Gesti\u00F3n de tareas\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\PracticaPrueba\\Aplicaci\u00F3n de Gesti\u00F3n de tareas\\Aplicaci\u00F3n de Gesti\u00F3n de tareas\\Form1.Designer.cs",
+              "RelativeToolTip": "Aplicaci\u00F3n de Gesti\u00F3n de tareas\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T06:11:08.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\PracticaPrueba\\Aplicaci\u00F3n de Gesti\u00F3n de tareas\\Aplicaci\u00F3n de Gesti\u00F3n de tareas\\Form1.cs",
+              "RelativeDocumentMoniker": "Aplicaci\u00F3n de Gesti\u00F3n de tareas\\Form1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\PracticaPrueba\\Aplicaci\u00F3n de Gesti\u00F3n de tareas\\Aplicaci\u00F3n de Gesti\u00F3n de tareas\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Aplicaci\u00F3n de Gesti\u00F3n de tareas\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T04:04:40.689Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ToDoExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\PracticaPrueba\\Aplicaci\u00F3n de Gesti\u00F3n de tareas\\Aplicaci\u00F3n de Gesti\u00F3n de tareas\\ToDoExtensions.cs",
+              "RelativeDocumentMoniker": "Aplicaci\u00F3n de Gesti\u00F3n de tareas\\ToDoExtensions.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\PracticaPrueba\\Aplicaci\u00F3n de Gesti\u00F3n de tareas\\Aplicaci\u00F3n de Gesti\u00F3n de tareas\\ToDoExtensions.cs",
+              "RelativeToolTip": "Aplicaci\u00F3n de Gesti\u00F3n de tareas\\ToDoExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T05:20:58.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\PracticaPrueba\\Aplicaci\u00F3n de Gesti\u00F3n de tareas\\Aplicaci\u00F3n de Gesti\u00F3n de tareas\\Program.cs",
+              "RelativeDocumentMoniker": "Aplicaci\u00F3n de Gesti\u00F3n de tareas\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\PracticaPrueba\\Aplicaci\u00F3n de Gesti\u00F3n de tareas\\Aplicaci\u00F3n de Gesti\u00F3n de tareas\\Program.cs",
+              "RelativeToolTip": "Aplicaci\u00F3n de Gesti\u00F3n de tareas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T05:31:52.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ItemStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\PracticaPrueba\\Aplicaci\u00F3n de Gesti\u00F3n de tareas\\Aplicaci\u00F3n de Gesti\u00F3n de tareas\\ItemStatus.cs",
+              "RelativeDocumentMoniker": "Aplicaci\u00F3n de Gesti\u00F3n de tareas\\ItemStatus.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\PracticaPrueba\\Aplicaci\u00F3n de Gesti\u00F3n de tareas\\Aplicaci\u00F3n de Gesti\u00F3n de tareas\\ItemStatus.cs",
+              "RelativeToolTip": "Aplicaci\u00F3n de Gesti\u00F3n de tareas\\ItemStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T04:38:24.768Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
